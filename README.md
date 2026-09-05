@@ -81,3 +81,26 @@ Manolit∞ siempre será gratis. Los servidores, por desgracia, no lo son. 🥲
 ---
 *"El que planta árboles sabiendo que nunca se sentará a su sombra,
 ha empezado a entender el sentido de la vida."
+
+
+--____---_________----________---____---__****
+
+
+---
+
+## 💼 Uso Comercial y Licenciamiento Dual (Para Empresas)
+
+**Manolit∞ Aire** es, y siempre será, un proyecto de código abierto, libre y comunitario bajo la licencia **AGPL 3.0**. Creo firmemente en un internet abierto donde el conocimiento se comparte.
+
+Sin embargo, entiendo que las grandes compañías y plataformas comerciales operan bajo dinámicas de software cerrado y modelos de negocio privados. Debido a los estrictos términos de copyleft de la licencia AGPL 3.0, **cualquier plataforma comercial que integre este código está obligada legalmente a liberar todo su propio código fuente**.
+
+Si representas a una empresa y deseas desplegar, integrar o explotar las funciones de este motor de rutas en vuestros sistemas cerrados sin comprometer vuestra propiedad intelectual, ofrezco **acuerdos de licencia comercial privada y adaptada**.
+
+### 🛠️ ¿Qué ofrezco a grandes compañías?
+* **Licencia Comercial Exclusiva:** Despliega el motor de sombras e integración de mapas sin las obligaciones de la AGPL 3.0.
+* **Modularidad a medida:** Posibilidad de adquirir funciones específicas del "Core" (motor geométrico) excluyendo módulos experimentales o capas de datos según vuestras necesidades.
+* **Integración y Soporte:** Consultoría directa para adaptar el algoritmo a vuestra infraestructura urbana o de reparto.
+
+Si vuestra organización quiere evitar conflictos legales con el software libre y prefiere un ecosistema cerrado firmado y autorizado por el autor original, contacta en:
+
+📬 **[sandro.a007@gmail.com]**
