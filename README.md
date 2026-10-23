@@ -23,6 +23,9 @@ Pensábamos que el cambio climático llegaría dentro de 100 años.
 
 ##  ¿Qué es Manolit∞ Aire?
 
+<img width="2160" height="2700" alt="manolit_instagram_layers_EN_2160x2700" src="https://github.com/user-attachments/assets/5370d783-8fb0-47c6-9013-687b32ade2c0" />
+
+
 Manolit∞ Aire responde a una pregunta que nadie debería tener que hacerse:
 
 &gt; **¿La sombra es un servicio de pago o un derecho humano?**
